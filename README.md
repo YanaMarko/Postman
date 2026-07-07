@@ -8,6 +8,8 @@
 * **Формат данных:** JSON
 * **Авторизация:** API Key (для Google Maps)
 
+---
+
 ## 🛠 Что протестировано
 
 ### 1. Chuck Norris API (api.chucknorris.io)
@@ -37,6 +39,8 @@
   ![Тесты Postman](./Google%20Maps%20img)
   
 </details>
+
+---
 
 ## ⚙️ Как запустить тесты
 1. Установите [Postman](https://www.postman.com/).
