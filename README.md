@@ -19,9 +19,7 @@
 
 <details>
   <summary>📸 Нажмите, чтобы посмотреть скриншот тестов в Postman</summary>
-  
   ![Тесты Postman](./Chuck%20Norris%20img)
-
 </details>
 
 ### 2. Google Maps API (maps.googleapis.com)
@@ -33,9 +31,7 @@
 
 <details>
   <summary>📸 Нажмите, чтобы посмотреть скриншот тестов в Postman</summary>
-  
   ![Тесты Postman](./Google%20Maps%20img)
-
 </details>
 
 ## ⚙️ Как запустить тесты
