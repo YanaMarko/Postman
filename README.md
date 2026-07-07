@@ -20,7 +20,7 @@
 <details>
   <summary>📸 Нажмите, чтобы посмотреть скриншот тестов в Postman</summary>
   
-  ![Тесты Postman](images/postman_tests.png)
+  ![Тесты Postman](Chuck Norris img)
 
 </details>
 
@@ -34,7 +34,7 @@
 <details>
   <summary>📸 Нажмите, чтобы посмотреть скриншот тестов в Postman</summary>
   
-  ![Тесты Postman](images/postman_tests.png)
+  ![Тесты Postman](Google Maps img)
 
 </details>
 
